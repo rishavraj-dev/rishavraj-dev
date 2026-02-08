@@ -70,3 +70,11 @@ A robust Python-based application for managing hospital records.
 ### 📫 Connect with me
 * **GitHub:** [@rishavraj-dev](https://github.com/rishavraj-dev)
 * **Email:** [raj.rishav@outlook.in](mailto:raj.rishav@outlook.in)
+---
+
+### 📊 My GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rishavraj-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="150" alt="Rishav's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavraj-dev&layout=compact&theme=tokyonight&langs_count=6" height="150" alt="Rishav's Top Languages" />
+</div>
