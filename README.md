@@ -48,6 +48,14 @@ A cultural heritage preservation platform featuring interactive maps and multili
 * **Role:** Front-End Developer (Team Contributor)
 * **Tech Stack:** React, Node.js
 
+### 🤖 **[Vigilant.AI (IntelliTrace)](https://github.com/rishavraj-dev/Vigilant.AI)**
+> *Indian Bank x VIT Chennai Hackathon Project*
+
+An AI-assisted fraud and anomaly monitoring concept designed for banking workflows during the hackathon.
+* **Context:** Built as a rapid prototype for the Indian Bank and VIT Chennai hackathon challenge track.
+* **Focus:** Intelligent transaction tracing, suspicious pattern detection, and fast risk flagging.
+* **Tech Stack:** AI/ML, Data Analysis, Web Integration
+
 
 
 ---
@@ -61,6 +69,15 @@ A robust Python-based application for managing hospital records.
 * **Context:** Developed as a "Vidyarthi" / College Project for my CSE coursework.
 * **Features:** Patient record management, doctor scheduling, and administrative controls.
 * **Tech Stack:** Python
+
+### 🏠 **[House Price Predictor](https://github.com/rishavraj-dev/House-Price-Predictor)**
+> *VIT Bhopal Course Project*
+
+A machine learning project that predicts house prices using historical housing features.
+* **Context:** Developed as a Vityarthi ML-based project for my AI-ML coursework.
+* **Model:** Linear Regression
+* **Focus:** Feature-based price estimation and baseline model evaluation.
+* **Tech Stack:** Python, scikit-learn, pandas
 
 ---
 
