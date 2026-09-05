@@ -2,7 +2,7 @@
 
 ### 🎓 B.Tech CSE (Core) Student @ VIT Bhopal University
 
-I am a passionate first-year Computer Science student exploring the world of **Web Development**, **Python**, and **Software Engineering**. I love building tools that solve real-world problems, from educational platforms to healthcare solutions.
+I am a passionate second-year Computer Science student exploring the world of **Web Development**, **Python**, and **Software Engineering**. I love building tools that solve real-world problems, from educational platforms to healthcare solutions.
 
 ---
 
@@ -55,7 +55,6 @@ An AI-assisted fraud and anomaly monitoring concept designed for banking workflo
 * **Context:** Built as a rapid prototype for the Indian Bank and VIT Chennai hackathon challenge track.
 * **Focus:** Intelligent transaction tracing, suspicious pattern detection, and fast risk flagging.
 * **Tech Stack:** AI/ML, Data Analysis, Web Integration
-
 
 
 ---
